@@ -1,0 +1,7 @@
+kissmetrics_plugin:
+  kissmetrics_api_key:
+    client: true
+    default: ''
+  kissmetrics_global_identifier:
+    client: true
+    default: ''
