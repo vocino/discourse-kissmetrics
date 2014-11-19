@@ -1,3 +1,5 @@
 en:
-  site_settings:
-    kissmetrics_plugin: KISSmetrics
+  admin:
+    site_settings:
+      categories:
+        kissmetrics_plugin: KISSmetrics
