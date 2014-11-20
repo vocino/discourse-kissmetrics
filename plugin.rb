@@ -8,7 +8,7 @@
 register_javascript <<JS
 
 var _kmq = _kmq || [];
-var _kmk = _kmk || Discourse.SiteSettings.kissmetrics_api_key;
+var _kmk = _kmk || Discourse.SiteSetting.kissmetrics_api_key;
 function _kms(u){
   setTimeout(function(){
     var d = document, f = d.getElementsByTagName('script')[0],
